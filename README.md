@@ -8,8 +8,8 @@ A Tool For Crypted File And Bypass AntiVirus Even msfvenom Payloads
 
 - Usage:
 
-	 <*.exe>   ---> Crypt EXE File
+	 epcrypter.exe <*.exe>   ---> Crypt EXE File
 
-	 -h        ---> Show Help Message
+	 epcrypter.exe -h        ---> Show Help Message
 
-	 -a        ---> Show About Message
+	 epcrypter.exe -a        ---> Show About Message
