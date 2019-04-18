@@ -6,4 +6,10 @@ A Tool For Crypted File And Bypass AntiVirus Even msfvenom Payloads
 
 # -------------------------------------------------------------------
 
-<span style="color:red">usage:</span>
+- Usage:
+
+	 <*.exe>  ---> Crypt EXE File
+
+	 -h       ---> Show This Message
+
+	 -a       ---> Show About Message
