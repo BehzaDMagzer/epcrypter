@@ -1,5 +1,5 @@
 ## epcrypter
-A Tool For Crypted File And Bypass AntiVirus Even msfvenom Payloads
+A Tool For Crypt File And Bypass AntiVirus Even msfvenom Payloads
 
 ## screen shot
 ![](https://github.com/BehzaDMagzer/epcrypter/blob/master/screenshot.png)
