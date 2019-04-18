@@ -8,8 +8,8 @@ A Tool For Crypted File And Bypass AntiVirus Even msfvenom Payloads
 
 - Usage:
 
-	 <*.exe>  ---> Crypt EXE File
+	 <*.exe>   ---> Crypt EXE File
 
-	 -h       ---> Show This Message
+	 -h        ---> Show This Message
 
-	 -a       ---> Show About Message
+	 -a        ---> Show About Message
