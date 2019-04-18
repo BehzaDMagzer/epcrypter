@@ -10,6 +10,6 @@ A Tool For Crypted File And Bypass AntiVirus Even msfvenom Payloads
 
 	 <*.exe>   ---> Crypt EXE File
 
-	 -h        ---> Show This Message
+	 -h        ---> Show Help Message
 
 	 -a        ---> Show About Message
