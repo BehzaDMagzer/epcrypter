@@ -13,3 +13,5 @@ A Tool For Crypt File And Bypass AntiVirus Even msfvenom Payloads
 	 epcrypter.exe -h        ---> Show Help Message
 
 	 epcrypter.exe -a        ---> Show About Message
+	 
+	 epcrypter.exe -i        ---> Install Modules 
