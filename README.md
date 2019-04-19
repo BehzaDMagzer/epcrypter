@@ -6,12 +6,12 @@ A Tool For Crypt File And Bypass AntiVirus Even msfvenom Payloads
 
 # -------------------------------------------------------------------
 
-- Usage:
+## Usage:
 
-	 epcrypter.exe <*.exe>   ---> Crypt EXE File
+	- epcrypter.exe <*.exe>   ---> Crypt EXE File
 
-	 epcrypter.exe -h        ---> Show Help Message
+	- epcrypter.exe -h        ---> Show Help Message
 
-	 epcrypter.exe -a        ---> Show About Message
+	- epcrypter.exe -a        ---> Show About Message
 	 
-	 epcrypter.exe -i        ---> Install Modules 
+	- epcrypter.exe -i        ---> Install Modules 
